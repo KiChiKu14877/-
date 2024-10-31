@@ -1,5 +1,6 @@
 # 引言 
 **为了让这个仓库看起来更充实，我添加了这个readme文件，哦，这真是太酷了。**
+
 **end**
 
-+commit failed 原来是网掉了
+- commit failed 原来是网掉了
